@@ -5,6 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Courses"
+      menu:
+      - text: "Page 1"
+        href: page1.html
+      - text: "Page 2"
+        href: page2.html
   right:
     - text: "Github"
       icon: fa-github
