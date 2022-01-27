@@ -1,7 +1,7 @@
 ---
-title: "Hello There"
+title: "Yo!"
 ---
 
 Welcome to my website! 
 
-Here you can see all the awesome projects I'm working on. 
+Here you can see all the awesome projects I'm working on.
